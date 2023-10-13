@@ -1,0 +1,34 @@
+CRITICAL - 2023-10-02 05:11:28 --> syntax error, unexpected single-quoted string "product", expecting "]"
+in APPPATH/Controllers/Admin.php on line 18.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('/storage/emulated/0/applications/ci4/app/Controllers/Admin.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin')
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists('\\App\\Controllers\\Admin', true)
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/storage/emulated/0/applications/ci4/public/index.php')
+CRITICAL - 2023-10-02 05:11:45 --> Undefined variable $pt_5
+in APPPATH/Views/Admin/components/card.php on line 1.
+ 1 APPPATH/Views/Admin/components/card.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pt_5', '/storage/emulated/0/applications/ci4/app/Views/Admin/components/card.php', 1)
+ 2 SYSTEMPATH/View/View.php(226): include('/storage/emulated/0/applications/ci4/app/Views/Admin/components/card.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(467): CodeIgniter\View\View->render('Admin/components/card', null, true)
+ 5 APPPATH/Views/Admin/view/v_dashboard.php(102): CodeIgniter\View\View->include('Admin/components/card')
+ 6 SYSTEMPATH/View/View.php(226): include('/storage/emulated/0/applications/ci4/app/Views/Admin/view/v_dashboard.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('Admin/view/v_dashboard', [], true)
+ 9 APPPATH/Controllers/Admin.php(20): view('Admin/view/v_dashboard', [...])
+10 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Admin->index()
+11 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/storage/emulated/0/applications/ci4/public/index.php')
+CRITICAL - 2023-10-02 16:30:10 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$getVar
+in APPPATH/Controllers/Admin.php on line 31.
+ 1 APPPATH/Controllers/Admin.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\IncomingRequest::$getVar', '/storage/emulated/0/applications/ci4/app/Controllers/Admin.php', 31)
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Admin->addproduct()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/storage/emulated/0/applications/ci4/public/index.php')

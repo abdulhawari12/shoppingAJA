@@ -1,0 +1,922 @@
+INFO - 2023-10-09 03:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 03:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-09 04:45:21 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH/Models/UserModel.php on line 20.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('/storage/emulated/0/applications/ci4/app/Models/UserModel.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 3 APPPATH/Controllers/UserController.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 4 SYSTEMPATH/CodeIgniter.php(891): App\Controllers\UserController->__construct()
+ 5 SYSTEMPATH/CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/storage/emulated/0/applications/ci4/public/index.php')
+INFO - 2023-10-09 04:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 04:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 05:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-09 15:09:33 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 15:09:36 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Helpers\number_helper.php(55): format_number(14.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(145): number_to_size(14.0, 2)
+#2 C:\xampp\htdocs\cth\app\Views\errors\html\error_exception.php(360): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(14680064)
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(109): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 13:48:01 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 13:48:02 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 13:56:33 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 13:56:33 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 13:57:22 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 13:57:22 --> Uncaught Error: Call to undefined method CodeIgniter\I18n\Time::locale_set_default() in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:01:57 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:01:57 --> Uncaught Error: Call to undefined method CodeIgniter\I18n\Time::locale_set_default() in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:02:14 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:02:14 --> Uncaught Error: Call to undefined method CodeIgniter\I18n\Time::locale_set_default() in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:04:59 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:06:44 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:07:05 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:07:05 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:10:27 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:13:31 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\app\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:13:39 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 14:13:39 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\app\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:23:26 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:23:27 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:29:36 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:29:36 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:37:16 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:37:16 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:42:22 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:42:23 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:46:35 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:46:36 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:48:20 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:48:20 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 14:53:10 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 14:53:10 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:00:10 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 15:00:10 --> Uncaught Error: Call to undefined function CodeIgniter\I18n\locale_set_default() in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:02:08 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 15:02:08 --> Uncaught Error: Class "Locale" not found in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:04:20 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 15:04:20 --> Uncaught Error: Class "Locale" not found in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Call to undefined function CodeIgniter\CLI\mb_strpos()
+#0 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+#1 C:\app\cth\vendor\codeigniter4\framework\system\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vend...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vend...')
+#4 C:\app\cth\vendor\codeigniter4\framework\system\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI...')
+#5 C:\app\cth\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+#6 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:08:59 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 15:08:59 --> Uncaught Error: Class "Locale" not found in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\app\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:11:19 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 15:11:19 --> Uncaught Error: Class "Locale" not found in C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php:75
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\I18n\TimeTrait.php(117): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\app\cth\vendor\codeigniter4\framework\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\app\cth\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-09 15:13:23 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-09 15:13:43 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+CRITICAL - 2023-10-09 15:18:00 --> Call to undefined function CodeIgniter\CLI\mb_strpos()
+in SYSTEMPATH\CLI\CLI.php on line 894.
+ 1 SYSTEMPATH\CLI\CLI.php(163): CodeIgniter\CLI\CLI::parseCommandLine()
+ 2 SYSTEMPATH\CLI\CLI.php(1141): CodeIgniter\CLI\CLI::init()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\app\\cth\\vendor\\codeigniter4\\framework\\system\\CLI\\CLI.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(250): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\app\\cth\\vendor\\composer/../codeigniter4/framework/system/CLI/CLI.php')
+ 5 SYSTEMPATH\CLI\Console.php(51): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\CLI\\CLI')
+ 6 ROOTPATH\spark(99): CodeIgniter\CLI\Console->showHeader(false)
+ERROR - 2023-10-09 15:19:47 --> mysqli_sql_exception: Table 'shoppingaja.product' doesn't exist in C:\app\cth\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\app\cth\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\app\cth\vendor\codeigniter4\framework\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\app\cth\vendor\codeigniter4\framework\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\app\cth\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\app\cth\vendor\codeigniter4\framework\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\app\cth\vendor\codeigniter4\framework\system\BaseModel.php(1203): CodeIgniter\Model->countAllResults(false)
+#6 C:\app\cth\app\Models\ProductModel.php(27): CodeIgniter\BaseModel->paginate(10, 'product')
+#7 C:\app\cth\app\Controllers\Home.php(20): App\Models\ProductModel->getProduct()
+#8 C:\app\cth\vendor\codeigniter4\framework\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#9 C:\app\cth\vendor\codeigniter4\framework\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\app\cth\vendor\codeigniter4\framework\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\app\cth\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\app\cth\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\app\\cth\\publ...')
+#13 {main}
+CRITICAL - 2023-10-09 15:19:47 --> Table 'shoppingaja.product' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `product`
+WHERE `product`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1203): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Models\ProductModel.php(27): CodeIgniter\BaseModel->paginate(10, 'product')
+ 5 APPPATH\Controllers\Home.php(20): App\Models\ProductModel->getProduct()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\app\\cth\\public\\index.php')
+INFO - 2023-10-09 15:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-09 15:35:16 --> Attempt to read property "id" on null
+in VENDORPATH\myth\auth\src\Models\UserModel.php on line 77.
+ 1 VENDORPATH\myth\auth\src\Models\UserModel.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\app\\cth\\vendor\\myth\\auth\\src\\Models\\UserModel.php', 77)
+ 2 VENDORPATH\myth\auth\src\Controllers\AuthController.php(176): Myth\Auth\Models\UserModel->withGroup('users')
+ 3 SYSTEMPATH\CodeIgniter.php(919): Myth\Auth\Controllers\AuthController->attemptRegister()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(Myth\Auth\Controllers\AuthController))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\app\\cth\\public\\index.php')
+INFO - 2023-10-09 15:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 15:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:43:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:48:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 16:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 17:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-09 18:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

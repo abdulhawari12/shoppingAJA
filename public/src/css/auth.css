@@ -1,0 +1,229 @@
+@font-face{
+  src: url('fonts/Poppins-Bold.ttf');
+  font-family: 'bold';
+}
+@font-face{
+  src: url('fonts/Poppins-Medium.ttf');
+  font-family: 'medium';
+}
+@font-face{
+  src: url('fonts/Poppins-Regular.ttf');
+  font-family: 'regular';
+}
+@font-face{
+  src: url('fonts/Poppins-Light.ttf');
+  font-family: 'ligth';
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  border: none;
+  outline: none;
+  transition: all 0.2s ease;
+  -webkit-tap-highlight-color: transparent;
+  font-family: regular;
+  color: var(--black);
+}
+:root{
+  --black: #000000;
+  --white: #FFFFFF;
+  --primary: #0085FF;
+  --bg: #F5F5F5;
+  --shadow: rgba(0,0,0,0.1);
+  --shadow-5: rgba(0,0,0,0.5);
+  --danger: #E53935;
+  --success: #43A047;
+  --orange: #FF8F00;
+  --light: rgba(132,139,200,0.10);
+  --card-border-radius: 2rem;
+  --border-radius-1: 0.4rem;
+  --border-radius-2: 1.2rem;
+  --card-padding: 1.8rem;
+  --padding-1: 1.2rem;
+  --box-shadow: 0 2rem 3rem var(--light);
+}
+body{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--primary);
+  width: 100%;
+  height: 100vh;
+}
+form{
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  background: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: var(--card-border-radius);
+  box-shadow: var(--box-shadow);
+}
+form h1{
+  color: var(--primary);
+}
+form .invalid-feedback{
+  display: flex;
+  align-items: center;
+  background: var(--danger);
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: var(--border-radius-1);
+}
+form .invalid-feedback span{
+  font-size: 14px;
+  color: var(--white);
+}
+.form-group{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  position: relative;
+}
+.form-group input{
+  width: 100%;
+  height: 50px;
+  outline: 1.5px solid var(--light);
+  border-radius: var(--border-radius-1);
+  background: var(--white);
+  padding: 15px;
+  font-size: 18px;
+}
+.form-group input:focus{
+  outline: 1.5px solid var(--primary);
+}
+.form-group input:not(:placeholder-shown){
+  outline: 1.5px solid var(--primary);
+}
+.form-group input.invalid:focus{
+  outline: 1.5px solid var(--danger);
+  color: var(--danger);
+}
+.form-group input.invalid:not(:focus){
+  color: var(--danger);
+  outline: 1.5px solid var(--danger);
+}
+.form-group input.invalid:not(:placeholder-shown){
+  color: var(--danger);
+  outline: 1.5px solid var(--danger);
+}
+.form-group input.invalid ~ label{
+  color: var(--danger);
+}
+.form-group label{
+  position: absolute;
+  left: 15px;
+  font-size: 18px;
+}
+form .text-muted{
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin-top: 5px;
+  background: var(--white);
+  align-items: center;
+  display: flex;
+}
+form .text-muted span{
+  font-size: 14px;
+  color: var(--shadow-5);
+}
+.form-check{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  height: auto;
+  justify-content: space-between;
+}
+.form-check-label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  color: var(--shadow-5);
+  gap: 5px;
+}
+form button{
+  width: 200px;
+  height: 50px;
+  border-radius: var(--border-radius-1);
+  background: var(--primary);
+  color: var(--white);
+  font-size: 18px;
+  margin-top: 40px;
+}
+form .link{
+  font-size: 12px;
+  font-family: ligth;
+  color: var(--shadow-5);
+  margin-top: 10px;
+}
+#input1:focus ~ label,
+#input1:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input2:focus ~ label,
+#input2:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input3:focus ~ label,
+#input3:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input4:focus ~ label,
+#input4:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input5:focus ~ label,
+#input5:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input6:focus ~ label,
+#input6:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
+#input7:focus ~ label,
+#input7:not(:placeholder-shown) ~ label
+{ 
+  transform: translateY(-25px);
+  font-size: 14px;
+  padding: 5px;
+  background: var(--white);
+}
