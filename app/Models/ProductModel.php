@@ -41,6 +41,9 @@ class ProductModel extends Model
     public function getProductById($id){
       return $this->where(['id' => $id])->first();
     }
+    public function getProductMultiId($id){
+      return $this->where(['id' => $id])->findAll();
+    }
     public function getProductKategori($kategori)
     {
       return $this->where(['kategori_produk' => $kategori])->orderBy('id', 'DESC')->paginate(10,'product');

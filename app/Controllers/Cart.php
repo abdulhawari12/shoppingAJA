@@ -48,6 +48,9 @@ class Cart extends BaseController
       {
         session()->setFlashData('error', 'Anda belom login');
         return redirect()->to('/login');
+      }else if($quantity == 0){
+        session()->setFlashData('errors', 'Maaf stok yang tersedia sudah Habis');
+        return redirect()->to('/Detail/' . $product_id);
       }
       $keranjang = $this->CartModel->getCartById($users_id);
          // dd($keranjang);

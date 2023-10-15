@@ -53,7 +53,7 @@
 <h3>Stok Tersedia : <?= $product['stok_produk'] ?></h3>
 <section class="count">
 <span id="decrement" onclick="decrement(event,this)" class="decrement"><i class="ri-lg ri-indeterminate-circle-line"></i></span>
-<input type="number" class="totalCount" name="quantity" value="1" min="1"
+<input type="number" class="totalCount" name="quantity" value="<?= ($product['stok_produk'] == 0) ? $product['stok_produk'] : '1'?>" min="<?= ($product['stok_produk'] == 0) ? $product['stok_produk'] : '1'?>"
 max="<?= $product['stok_produk'] ?>" />
 <span id="increment" onclick="increment(event,this)" class="increment"><i class="ri-lg ri-add-circle-line"></i></span>
 </section>

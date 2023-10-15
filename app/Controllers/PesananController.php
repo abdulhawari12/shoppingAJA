@@ -7,23 +7,24 @@ use App\Models\PesananModel;
 use App\Models\WalletModel;
 use App\Models\TransactionModel;
 use App\Models\CartModel;
+use App\Models\ProductModel;
 use CodeIgniter\I18n\Time;
 class PesananController extends BaseController
 {
-  protected $PesananModel,$WalletModel,$TransactionModel,$CartModel;
+  protected $PesananModel,$WalletModel,$TransactionModel,$CartModel,$ProductModel;
     public function __construct()
     {
       $this->PesananModel = new PesananModel();
       $this->WalletModel = new WalletModel();
       $this->TransactionModel = new TransactionModel();
       $this->CartModel = new CartModel();
+      $this->ProductModel = new ProductModel();
     }
     public function index()
     {
       $wallet = $this->WalletModel->getWallet();
       $transaksi = $this->TransactionModel->getTransaksi();
       $keranjang = $this->CartModel->getCart();
-      
       $nama = $this->request->getVar('nama');
       $harga = $this->request->getVar('harga');
       $hargaAsli = $this->request->getVar('hargaAsli');
@@ -34,6 +35,8 @@ class PesananController extends BaseController
       $userid = $this->request->getVar('users_id');
       $produkid = $this->request->getVar('product_id');
       $gambar = $this->request->getVar('gambar');
+     // $produk = $this->ProductModel->getProductMultiId($produkid);
+    //  dd($produkid);
       if($wallet == [] || $wallet[0]['saldo'] < $harga[0]){
           session()->setFlashdata('errors','Maaf saldo anda kurang');
           return redirect()->to('/Cart');
@@ -86,6 +89,8 @@ class PesananController extends BaseController
     }
        $this->TransactionModel->insertBatch($data1);
     //dd($data1);
+     $data2 = [];
+     $index2 = 0;
        foreach ($wallet as $w){
         $newSaldo = [
            'saldo' => $w['saldo'] - $harga[0],

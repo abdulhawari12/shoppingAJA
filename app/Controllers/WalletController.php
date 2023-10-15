@@ -17,17 +17,23 @@ class WalletController extends BaseController
   }
   public function index()
   {
+    $transaksi = $this->TransactionModel->getTransaksi();
     $data = [
       'title' => 'My Wallet',
       'wallet' => $this->WalletModel->getWallet(),
-      'transaksi' => $this->TransactionModel->getTransaksi(),
-      'back' => '/Settings'
+      'transaksi' => $transaksi,
+      'back' => '/Settings',
+      'padding_top' => 'pt-9',
     ];
     return view('Wallet/view/v_index', $data);
   }
   public function tambah()
   {
-    $data = ['title' => 'Tambah Saldo', 'back' => '/Saldo'];
+    $data = [
+      'title' => 'Tambah Saldo',
+      'back' => '/Saldo',
+      'padding_top' => '',
+    ];
     return view('Wallet/view/v_tambah', $data);
   }
   public function addsaldo($id)

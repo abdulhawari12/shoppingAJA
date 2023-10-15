@@ -1,5 +1,6 @@
 <?= $this->extend('Wallet/layout/layout') ?>
 <?= $this->section('main') ?>
+<?= $this->include('Wallet/components/filter')?>
 <section class="box">
   <section class="box-wallet">
     <h3>Rp

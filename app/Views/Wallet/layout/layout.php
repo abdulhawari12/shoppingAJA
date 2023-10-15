@@ -16,7 +16,7 @@
    <script src="<?= base_url();?>src/js/sweetalert2.min.js" type="text/javascript" charset="utf-8"></script>
    <script src="<?= base_url();?>src/js/splide.min.js" type="text/javascript" charset="utf-8"></script>
   </head>
-  <body>
+  <body class="<?= $padding_top?>">
     
 <section class="success" data-success="<?= session()->getFlashData('success')?>"></section>
 <section class="errors" data-errors="<?= session()->getFlashData('errors')?>"></section>
@@ -61,6 +61,9 @@ Toast.fire({
     });
   }
 });
+  </script>
+  <script>
+    
   </script>
    <script src="<?= base_url();?>src/js/script.js" type="text/javascript" charset="utf-8"></script>
   </body>

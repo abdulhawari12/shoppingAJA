@@ -16,24 +16,24 @@ class Pesanan extends Migration
            'auto_increment' => true,
            'constraint' => 11,
            ],
-        'nama_brg' => [
+        'nama_produk' => [
            'type' => 'varchar',
            'constraint' => 255
           ],
-        'harga_brg' => [
+        'harga_produk' => [
            'type' => 'double'
           ],
-        'kategori_brg' => [
+        'kategori_produk' => [
            'type' => 'varchar',
            'constraint' => 255
           ],
-        'diskon_brg' => [
+        'diskon_produk' => [
            'type' => 'double'
           ],
-        'jumlah_brg' => [
+        'jumlah_produk' => [
            'type' => 'double'
           ],
-        'gambar_brg' => [
+        'thumb_produk' => [
            'type' => 'varchar',
            'constraint' => 255
           ],
@@ -42,7 +42,7 @@ class Pesanan extends Migration
            'constraint' => 11,
            'usigned' => true
           ],
-        'produk_id' => [
+        'product_id' => [
            'type' => 'int',
            'constraint' => 11,
            'usigned' => true
