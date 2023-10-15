@@ -221,11 +221,18 @@ body{
 }
 .analytic-items-progress{
   width: 50%;
-  height: 100px;
+  height: auto;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.analytic-items svg{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
 }
 .analytic-items .analytic-items-progress svg circle{
   fill: none;
@@ -703,4 +710,42 @@ form button i{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+/* for desktop */
+@media only screen and (min-width: 992px) {
+
+}
+/* for tablet */
+@media only screen and (min-width: 600px) {
+  .navbar-profile img{
+    width: 70px;
+    height: 70px;
+  }
+  .nav-items:last-child{
+    position: absolute;
+    bottom: 0px!important;
+  }
+  .analytic-items{
+    width: 100%;
+    height: 250px;
+  }
+  .analytic-items-title h4{
+    font-size: 22px;
+  }
+  .analytic-items-title h2{
+    font-size: 28px;
+  }
+  .analytic-items-progress .percentage{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .list-users{
+    gap: 30px;
+    justify-content: space-around;
+  }
+  .list-users-items{
+    width: 200px;
+    height: 150px;
+  }
 }

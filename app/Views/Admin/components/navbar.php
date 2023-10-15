@@ -1,11 +1,11 @@
 <section class="navbar">
   <section class="toggle">
-      <span></span>
-      <span></span>
-      <span></span>
-    </section>
+    <span></span>
+    <span></span>
+    <span></span>
+  </section>
   <section class="navbar-profile">
-    <img src="<?= base_url()?>src/assets/logo/profile.png" alt="Profile" loading="lazy" />
+    <img src="<?= base_url() ?>src/assets/profile/profile.png" alt="Profile" loading="lazy" />
   </section>
 </section>
 <section class="navbar-items">

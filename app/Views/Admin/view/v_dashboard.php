@@ -1,5 +1,5 @@
-<?= $this->extend('Admin/layout/layout')?>
-<?= $this->section('main')?>
+<?= $this->extend('Admin/layout/layout') ?>
+<?= $this->section('main') ?>
 <section class="analytic">
   <h1>Analytics</h1>
   <section class="analytic-items orders">
@@ -77,28 +77,28 @@
   <h1>New Users</h1>
   <section class="list-users">
     <section class="list-users-items">
-    <img src="<?= base_url()?>src/assets/logo/profile.png" alt="Profile" loading="lazy"/>
-    <span class="name">Abdulhawari</span>
-    <span class="time">1H Ago</span>
-  </section>
+      <img src="<?= base_url() ?>src/assets/profile/profile.png" alt="Profile" loading="lazy" />
+      <span class="name">Abdulhawari</span>
+      <span class="time">1H Ago</span>
+    </section>
     <section class="list-users-items">
-    <img src="<?= base_url()?>src/assets/logo/profile.png" alt="Profile" loading="lazy"/>
-    <span class="name">Abdulhawari</span>
-    <span class="time">1H Ago</span>
-  </section>
+      <img src="<?= base_url() ?>src/assets/profile/profile.png" alt="Profile" loading="lazy" />
+      <span class="name">Abdulhawari</span>
+      <span class="time">1H Ago</span>
+    </section>
     <section class="list-users-items">
-    <img src="<?= base_url()?>src/assets/logo/profile.png" alt="Profile" loading="lazy"/>
-    <span class="name">Abdulhawari</span>
-    <span class="time">1H Ago</span>
-  </section>
+      <img src="<?= base_url() ?>src/assets/profile/profile.png" alt="Profile" loading="lazy" />
+      <span class="name">Abdulhawari</span>
+      <span class="time">1H Ago</span>
+    </section>
     <section class="list-users-items">
       <i class="ri-lg ri-add-line"></i>
       <span class="more">More</span>
-  </section>
+    </section>
   </section>
 </section>
 <section class="product-list">
   <h1>List Product</h1>
-  <?= $this->include('Admin/components/card')?>
+  <?= $this->include('Admin/components/card') ?>
 </section>
-<?= $this->endsection()?>
+<?= $this->endsection() ?>
